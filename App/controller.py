@@ -96,7 +96,7 @@ def minKey(analyzer):
     """
     return model.minKey(analyzer)
 
-
+ 
 def maxKey(analyzer):
     """
     La mayor llave del arbol
